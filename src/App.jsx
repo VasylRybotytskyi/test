@@ -5,6 +5,11 @@ const App = () => {
   return (
     <div>
       <Header />
+      <nav>
+        <a href="#" />
+        <a href="#" />
+        <a href="#" />
+      </nav>
       <Footer />
     </div>
   );
