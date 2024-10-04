@@ -6,9 +6,9 @@ const App = () => {
     <div>
       <Header />
       <nav>
-        <a href="" />
-        <a href="" />
-        <a href="" />
+        <a href="#" />
+        <a href="#" />
+        <a href="#" />
       </nav>
       <Footer />
     </div>
